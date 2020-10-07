@@ -9,6 +9,8 @@ public class TravelDestination {
 		
 		// console output with name and hobby
 		System.out.println("My name is Travis Sauer. Hiking in mountainous areas is one of my favorite activities.");
+		
+		System.out.println("My name is David Jackson. Being outside fishing is one of my favorite activities.");
 	}
 
 }
